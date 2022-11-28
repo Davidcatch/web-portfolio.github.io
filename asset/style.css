@@ -1,0 +1,27 @@
+/*
+//untuk di web vertikal
+body {
+  min-height: 5000px;
+}
+*/
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#Raihan {
+  width: 30%;
+  border-radius: 10%;
+}
+
+.img-thumbnail {
+  background: blue;
+}
